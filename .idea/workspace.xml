@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="beaa84bb-35a6-4d6e-8fcc-68782b6d65ac" name="Default" comment="" />
+    <list default="true" id="beaa84bb-35a6-4d6e-8fcc-68782b6d65ac" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BinarySearchDemo.java" afterPath="$PROJECT_DIR$/src/BinarySearchDemo.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BinarySearchDemo.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BinarySearchDemo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BinarySearchDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="35" column="29" lean-forward="true" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+            <state relative-caret-position="0">
+              <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -42,12 +45,39 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="198">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding>
+                <marker date="1501420501000" expanded="true" signature="26040:26082" ph="..." />
+                <marker date="1501420501000" expanded="true" signature="26040:26100" ph="..." />
+                <marker date="1501420501000" expanded="true" signature="26040:26113" ph="..." />
+                <marker date="1501420501000" expanded="true" signature="26040:26128" ph="..." />
+                <marker date="1501420501000" expanded="true" signature="26163:27528" ph="..." />
+                <marker date="1501420501000" expanded="true" signature="26176:27513" ph="..." />
+                <marker date="1501420501000" expanded="true" signature="26227:26492" ph="..." />
+                <marker date="1501420501000" expanded="true" signature="26246:26477" ph="..." />
+                <marker date="1501420501000" expanded="true" signature="26279:26457" ph="..." />
+                <marker date="1501420501000" expanded="true" signature="26319:26423" ph="..." />
+                <marker date="1501420501000" expanded="true" signature="26340:26401" ph="..." />
+                <marker date="1501420501000" expanded="true" signature="26535:26841" ph="..." />
+                <marker date="1501420501000" expanded="true" signature="26554:26826" ph="..." />
+                <marker date="1501420501000" expanded="true" signature="26628:26806" ph="..." />
+                <marker date="1501420501000" expanded="true" signature="26668:26772" ph="..." />
+                <marker date="1501420501000" expanded="true" signature="26689:26750" ph="..." />
+                <marker date="1501420501000" expanded="true" signature="26876:27182" ph="..." />
+                <marker date="1501420501000" expanded="true" signature="26895:27167" ph="..." />
+                <marker date="1501420501000" expanded="true" signature="26969:27147" ph="..." />
+                <marker date="1501420501000" expanded="true" signature="27009:27113" ph="..." />
+                <marker date="1501420501000" expanded="true" signature="27030:27091" ph="..." />
+                <marker date="1501420501000" expanded="true" signature="27234:27499" ph="..." />
+                <marker date="1501420501000" expanded="true" signature="27253:27484" ph="..." />
+                <marker date="1501420501000" expanded="true" signature="27286:27464" ph="..." />
+                <marker date="1501420501000" expanded="true" signature="27326:27430" ph="..." />
+                <marker date="1501420501000" expanded="true" signature="27347:27408" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,8 +110,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/BinarySearchDemo.java" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/BinarySearchDemo.java" />
       </list>
     </option>
   </component>
@@ -127,6 +157,11 @@
               <item name="algorithm_java" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm_java" type="462c0819:PsiDirectoryNode" />
               <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm_java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm_java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -281,15 +316,16 @@
       <option name="presentableId" value="Default" />
       <updated>1501401504768</updated>
       <workItem from="1501401507449" duration="1411000" />
-      <workItem from="1501403010565" duration="142000" />
+      <workItem from="1501403010565" duration="572000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1553000" />
+    <option name="totallyTimeSpent" value="1983000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="23" width="1400" height="811" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -298,7 +334,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13843888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -348,14 +384,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinarySearchDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="35" column="29" lean-forward="true" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -374,8 +402,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="198">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <marker date="1501420501000" expanded="true" signature="26040:26082" ph="..." />
+            <marker date="1501420501000" expanded="true" signature="26040:26100" ph="..." />
+            <marker date="1501420501000" expanded="true" signature="26040:26113" ph="..." />
+            <marker date="1501420501000" expanded="true" signature="26040:26128" ph="..." />
+            <marker date="1501420501000" expanded="true" signature="26163:27528" ph="..." />
+            <marker date="1501420501000" expanded="true" signature="26176:27513" ph="..." />
+            <marker date="1501420501000" expanded="true" signature="26227:26492" ph="..." />
+            <marker date="1501420501000" expanded="true" signature="26246:26477" ph="..." />
+            <marker date="1501420501000" expanded="true" signature="26279:26457" ph="..." />
+            <marker date="1501420501000" expanded="true" signature="26319:26423" ph="..." />
+            <marker date="1501420501000" expanded="true" signature="26340:26401" ph="..." />
+            <marker date="1501420501000" expanded="true" signature="26535:26841" ph="..." />
+            <marker date="1501420501000" expanded="true" signature="26554:26826" ph="..." />
+            <marker date="1501420501000" expanded="true" signature="26628:26806" ph="..." />
+            <marker date="1501420501000" expanded="true" signature="26668:26772" ph="..." />
+            <marker date="1501420501000" expanded="true" signature="26689:26750" ph="..." />
+            <marker date="1501420501000" expanded="true" signature="26876:27182" ph="..." />
+            <marker date="1501420501000" expanded="true" signature="26895:27167" ph="..." />
+            <marker date="1501420501000" expanded="true" signature="26969:27147" ph="..." />
+            <marker date="1501420501000" expanded="true" signature="27009:27113" ph="..." />
+            <marker date="1501420501000" expanded="true" signature="27030:27091" ph="..." />
+            <marker date="1501420501000" expanded="true" signature="27234:27499" ph="..." />
+            <marker date="1501420501000" expanded="true" signature="27253:27484" ph="..." />
+            <marker date="1501420501000" expanded="true" signature="27286:27464" ph="..." />
+            <marker date="1501420501000" expanded="true" signature="27326:27430" ph="..." />
+            <marker date="1501420501000" expanded="true" signature="27347:27408" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinarySearchDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
           <folding />
         </state>
       </provider>
